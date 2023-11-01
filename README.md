@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Ayari</h1>
 
 
-<img align="right" alt ="coding" width="400" src=https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966>
+<img align="right" alt ="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcristiano-ronaldo-going-super-saiyan-hd-2016-k9x-Gv&psig=AOvVaw2DPoaNAYUP5oOCjVH3mI8a&ust=1698883052178000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCwr5zAoYIDFQAAAAAdAAAAABAD>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaayari1&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaayari1" /> </p>
 
