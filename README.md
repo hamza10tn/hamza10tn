@@ -23,10 +23,10 @@
 
 </p>
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=hamzaayari1&show_icons=true&locale=en" alt="hamzaayari1" />
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaayari1&" alt="hamzaayari1" />
 </div>
