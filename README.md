@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ayari</h1>
-
+  
 
 <img align="right" alt ="coding" width="400" src="https://i.makeagif.com/media/7-09-2016/k9x-Gv.gif">
 
@@ -19,6 +19,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaayari1&show_icons=true&locale=en" alt="hamzaayari1" /></p>
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hamzaayari1&show_icons=true&locale=en" alt="hamzaayari1" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaayari1&" alt="hamzaayari1" /></p>
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaayari1&" alt="hamzaayari1" />
+</div>
