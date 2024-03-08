@@ -3,7 +3,7 @@
 
 <img align="right" alt ="coding" width="400" src="https://i.makeagif.com/media/7-09-2016/k9x-Gv.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaayari1&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaayari1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza10tn&label=Profile%20views&color=0e75b6&style=flat" alt="hamza10tn" /> </p>
 
 - 📫 How to reach me **ayari.hamza1@esprit.tn**
 
