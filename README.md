@@ -1,5 +1,5 @@
 <h3 align="center">I'm Hamza Ayari, a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old. I am completely passionate about frontend backend development .</h3>
-<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza10tn&label=Profile%20views&color=0e75b6&style=flat" alt="hamza10tn" /> </p>
 
