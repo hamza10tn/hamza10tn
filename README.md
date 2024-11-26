@@ -1,21 +1,60 @@
-<h3 align="center">I'm Hamza Ayari, a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old. I am completely passionate about frontend backend development .</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza10tn&label=Profile%20views&color=0e75b6&style=flat" alt="hamza10tn" /> </p>
 
-- 📫 How to reach me **ayari.hamza1@esprit.tn**
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aziz+Zina+!&center=true&size=30">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hamza-ayari-9003aa23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-ayari-9003aa23b/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100074885735190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100074885735190" height="30" width="40" /></a>
-<a href="https://instagram.com/hamz_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hamz_ss" height="30" width="40" /></a>
-</p>
+<br>
+<!-- <div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900" height="500"/>
+</div>   -->
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👤 About Me :
+I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learning new stuff, and excited to enlarge, forge, and ameliorate my knowledge in this field. I'm hardworking and inquisitive and I also like to work in a team. 
+- 🔭 I’m currently a computer science student in Tunisia.  
+- 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza10tn&show_icons=true&locale=en&layout=compact" alt="hamza10tn" /></p>
+<a href="mailto: ayari.hamza1@esprit.tn" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ayari.hamza1@esprit.tn" /></a>
+<a href="https://www.linkedin.com/in/hamza-ayari-9003aa23b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-2b5bcc?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="hamza-ayari-9003aa23b" /></a>
+<img src="https://komarev.com/ghpvc/?username=hamza10tn&style=for-the-badge" alt="hamza10tn" />
+  <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza10tn&show_icons=true&locale=en" alt="hamza10tn" /></p>
+## 🚀 Languages:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza10tn&" alt="hamza10tn" /></p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,php,java,typescript,angular,nodejs,express,spring,mysql,mongodb,postgres,androidstudio,fastapi,tailwind)](https://skillicons.dev)
+
+## ⚙️ Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure)](https://skillicons.dev)
+
+<br>
+
+
+## 📈 Github Stats :
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza10tn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=370&disable_animations=false&theme=dark&locale=en&hide_border=false" height="190" alt="stats graph"  />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=hamza10tn&theme=dark" alt="GitHub Streak"/>
+</td>
+
+<td width="50%" align="center">
+  <br>
+  <img style="margin-bottom: -20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza10tn&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dark&hide_border=false" height="190" alt="languages graph"  />
+  <br>
+  <div align="center" style="border: 2px solid white;">
+    
+  [![Hamza Ayari's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hamza10tn&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+  </div>
+  
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+      <img height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza10tn&theme=github-compact&radius=8&area=true">
+  </td>
+</tr>
+</table>
+<br clear="both">
