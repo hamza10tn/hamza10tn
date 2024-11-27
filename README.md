@@ -12,7 +12,7 @@
 
 ## 👤 About Me :
 I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learning new stuff, and excited to enlarge, forge, and ameliorate my knowledge in this field. I'm hardworking and inquisitive and I also like to work in a team. 
-- 🔭 I’m currently a computer science student in Tunisia.  
+- 🔭 I’m currently a software engineer student in Tunisia.  
 - 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 
 <a href="mailto: ayari.hamza1@esprit.tn" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ayari.hamza1@esprit.tn" /></a>
